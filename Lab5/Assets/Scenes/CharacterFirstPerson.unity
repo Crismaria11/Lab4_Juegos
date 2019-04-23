@@ -179,6 +179,7 @@ GameObject:
   - component: {fileID: 171072474}
   - component: {fileID: 171072473}
   - component: {fileID: 171072472}
+  - component: {fileID: 171072476}
   m_Layer: 0
   m_Name: Blanco4
   m_TagString: Blancos
@@ -259,6 +260,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!114 &171072476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 171072471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d9e719b557849498ed48ec364667f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &270036622
 GameObject:
   m_ObjectHideFlags: 0
@@ -545,6 +558,7 @@ GameObject:
   - component: {fileID: 568260149}
   - component: {fileID: 568260148}
   - component: {fileID: 568260147}
+  - component: {fileID: 568260151}
   m_Layer: 0
   m_Name: Blanco2
   m_TagString: Blancos
@@ -625,6 +639,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 90}
+--- !u!114 &568260151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 568260146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d9e719b557849498ed48ec364667f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &692646519
 GameObject:
   m_ObjectHideFlags: 0
@@ -1143,6 +1169,7 @@ GameObject:
   - component: {fileID: 797258091}
   - component: {fileID: 797258090}
   - component: {fileID: 797258089}
+  - component: {fileID: 797258093}
   m_Layer: 0
   m_Name: Blanco5
   m_TagString: Blancos
@@ -1223,6 +1250,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 90}
+--- !u!114 &797258093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797258088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d9e719b557849498ed48ec364667f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &831588516
 GameObject:
   m_ObjectHideFlags: 0
@@ -1755,6 +1794,7 @@ GameObject:
   - component: {fileID: 1688077341}
   - component: {fileID: 1688077340}
   - component: {fileID: 1688077339}
+  - component: {fileID: 1688077343}
   m_Layer: 0
   m_Name: Blanco1
   m_TagString: Blancos
@@ -1835,6 +1875,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 90}
+--- !u!114 &1688077343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688077338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d9e719b557849498ed48ec364667f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1696989077
 GameObject:
   m_ObjectHideFlags: 0
@@ -2080,6 +2132,7 @@ GameObject:
   - component: {fileID: 1934665560}
   - component: {fileID: 1934665559}
   - component: {fileID: 1934665558}
+  - component: {fileID: 1934665562}
   m_Layer: 0
   m_Name: Blanco3
   m_TagString: Blancos
@@ -2160,6 +2213,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 90}
+--- !u!114 &1934665562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1934665557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d9e719b557849498ed48ec364667f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1936911713
 PrefabInstance:
   m_ObjectHideFlags: 0
